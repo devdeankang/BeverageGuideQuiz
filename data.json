@@ -1,0 +1,474 @@
+[
+    {
+        "category": "커피",
+        "item": "분쇄원두",
+        "standard": "분쇄후",
+        "shelfLife": "24H",
+        "storage": "실온",
+        "notation": "P"
+    },
+    {
+        "category": "커피",
+        "item": "원두",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "실온",
+        "notation": "수기표기"
+    },
+    {
+        "category": "커피",
+        "item": "오늘의커피",
+        "standard": "추출후",
+        "shelfLife": "1H",
+        "storage": "실온",
+        "notation": "타이머"
+    },
+    {
+        "category": "커피",
+        "item": "아이스커피",
+        "standard": "추출후",
+        "shelfLife": "4H",
+        "storage": "냉장",
+        "notation": "타이머"
+    },
+    {
+        "category": "커피",
+        "item": "에스프레소",
+        "standard": "추출후",
+        "shelfLife": "10S",
+        "storage": NaN,
+        "notation": NaN
+    },
+    {
+        "category": "콜드브루",
+        "item": "콜드브루 원액",
+        "standard": "추출후",
+        "shelfLife": "5일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "휘핑크림 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "휘핑크림 (제조)",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "하프 앤 하프",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "바닐라 크림 베이스",
+        "standard": "개봉후",
+        "shelfLife": "2일",
+        "storage": "냉장",
+        "notation": NaN
+    },
+    {
+        "category": "유제품",
+        "item": "스타벅스 저지방 요거트",
+        "standard": "개봉후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "연유 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "2일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "유제품",
+        "item": "연유 (소분)",
+        "standard": "제조후",
+        "shelfLife": "당일폐기",
+        "storage": "실온",
+        "notation": "숫자"
+    },
+    {
+        "category": "대체유",
+        "item": "오트유",
+        "standard": "개봉후",
+        "shelfLife": "2일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "대체유",
+        "item": "두유 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "2일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "대체유",
+        "item": "두유 (소분)",
+        "standard": "소분후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "티",
+        "item": "더블 스트랭스 티( 블랙/패션/민트)",
+        "standard": "개봉후",
+        "shelfLife": "3M",
+        "storage": "실온",
+        "notation": "수기표기"
+    },
+    {
+        "category": "티",
+        "item": "(공백)",
+        "standard": "제조후",
+        "shelfLife": "12H",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "티",
+        "item": "스타벅스 제주 유기농 녹차 티백",
+        "standard": "개봉후",
+        "shelfLife": "1M",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "프라푸치노 베이스 (커피/크림)",
+        "standard": "개봉후",
+        "shelfLife": "3일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "프라푸치노 로스트 ",
+        "standard": "제조후",
+        "shelfLife": "48H",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "프리미엄 레모네이드",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "라임베이스 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "라임베이스 (소분)",
+        "standard": "소분후",
+        "shelfLife": "당일폐기",
+        "storage": "냉장",
+        "notation": "숫자 "
+    },
+    {
+        "category": "베이스",
+        "item": "망고 패션 후르츠 베이스 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "망고 패션 후르츠 베이스 (소분)",
+        "standard": "소분후",
+        "shelfLife": "당일폐기",
+        "storage": "냉장",
+        "notation": "숫자 "
+    },
+    {
+        "category": "베이스",
+        "item": "피치 베이스 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "유자 진저 베이스",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "베이스",
+        "item": "자몽 베이스",
+        "standard": "개봉후",
+        "shelfLife": "3일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "과일",
+        "item": "건라임",
+        "standard": "소분후",
+        "shelfLife": "5일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "시그니처 초콜릿 믹스",
+        "standard": "제조후",
+        "shelfLife": "2일",
+        "storage": "실온(마감시, 냉장보관)",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "모카시럽 (제조 후 보관)",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "모카시럽 (소분)",
+        "standard": "소분후",
+        "shelfLife": "24H",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "화이트 초콜릿 모카 시럽 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "14일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "화이트 초콜릿 모카 시럽 (소분)",
+        "standard": "소분후",
+        "shelfLife": "2일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "딸기 믹스",
+        "standard": "개봉후",
+        "shelfLife": "2일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "허니 자몽 소스 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "14일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "허니 자몽 소스 (소분)",
+        "standard": "소분후",
+        "shelfLife": "2일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "소스",
+        "item": "복숭아 소스",
+        "standard": "개봉후",
+        "shelfLife": "3일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "시럽",
+        "item": "심플시럽 (휘핑 제조용)",
+        "standard": "개봉후",
+        "shelfLife": "14일",
+        "storage": "실온",
+        "notation": "수기표기"
+    },
+    {
+        "category": "시럽",
+        "item": "심플시럽 (컨디먼트바 비치용)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "실온",
+        "notation": "P"
+    },
+    {
+        "category": "시럽",
+        "item": "향시럽( 바닐라, 클래식,헤이즐넛,흑당 등)",
+        "standard": "개봉후",
+        "shelfLife": "14일",
+        "storage": "실온",
+        "notation": "수기표기"
+    },
+    {
+        "category": "시럽",
+        "item": "카라멜 드리즐",
+        "standard": "소분후",
+        "shelfLife": "당일폐기",
+        "storage": "실온",
+        "notation": "숫자"
+    },
+    {
+        "category": "시럽",
+        "item": "초코 드리즐",
+        "standard": "소분후",
+        "shelfLife": "24H",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "토핑",
+        "item": "자바칩 (프라푸치노 칩)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "토핑",
+        "item": "에스프레소 칩",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "파우더",
+        "item": "컨디먼트 바 파우더 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "3M",
+        "storage": "실온",
+        "notation": "수기표기"
+    },
+    {
+        "category": "파우더",
+        "item": "컨디먼트 바 파우더 (소분)",
+        "standard": "소분후",
+        "shelfLife": "7일",
+        "storage": "실온",
+        "notation": "p"
+    },
+    {
+        "category": "파우더",
+        "item": "유기농 말차 파우더",
+        "standard": "개봉후",
+        "shelfLife": "14일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "기타 ",
+        "item": "클래식 밀트 티 베이스",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+p"
+    },
+    {
+        "category": "리프레셔",
+        "item": "딸기 향 음료 베이스",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "리프레셔",
+        "item": "딸기 리프레셔 믹스",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "리프레셔",
+        "item": "딸기 슬라이스",
+        "standard": "개봉후",
+        "shelfLife": "3일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "프로모션",
+        "item": "슈크림 휘핑",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "프로모션",
+        "item": "스위트 바닐라 소스 (원팩)",
+        "standard": "개봉후",
+        "shelfLife": "3일",
+        "storage": "냉장",
+        "notation": "P/수기기입"
+    },
+    {
+        "category": "프로모션",
+        "item": "스위트 바닐라 소스 (소분)",
+        "standard": "소분후",
+        "shelfLife": "당일폐기",
+        "storage": "실온",
+        "notation": "숫자"
+    },
+    {
+        "category": "프로모션",
+        "item": "슈크림 말차 베이스",
+        "standard": "제조후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "프로모션",
+        "item": "말차 파우더 (쉐이커용)",
+        "standard": "개봉후",
+        "shelfLife": "7일",
+        "storage": "실온",
+        "notation": "숫자+P"
+    },
+    {
+        "category": "프로모션",
+        "item": "딸기 베이스 ",
+        "standard": "개봉후",
+        "shelfLife": "24H",
+        "storage": "냉장",
+        "notation": "숫자+P"
+    }
+]
